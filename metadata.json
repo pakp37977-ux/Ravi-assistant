@@ -1,0 +1,6 @@
+{
+  "name": "Ravi: The Witty AI Assistant",
+  "description": "A visually stunning, witty, and cinematic voice assistant. Ravi is the male counterpart to Zoya, with a sharp tongue and a cool attitude.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
